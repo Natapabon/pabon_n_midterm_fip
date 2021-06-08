@@ -1,5 +1,18 @@
 # Grolsch 
 
+Grolsch is an authentic and refreshing beer brand, delivering a fresh,
+natural experience with a particular flavor.
+
+Grolsch 0% alcohol-free is a robust beer, with minty tones and a slight sweetness. The result is a beer that makes it the perfect thirst
+quencher at every moment of the day.
+
+Mint is present as the main ingredient, giving a feeling of coolness to your mouth, leaving a fresh and healthy breath. That is why 4 out
+of 5 brewers and dentists recommends it.
+
+Grolsch, a healthy and fresh tradition to share with friends.
+
+Be cool. Be fresh. Be blue.
+
 # FIP project 
 2nd term - Summer semester 2021
 Natalia Pabon
